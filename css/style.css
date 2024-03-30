@@ -506,7 +506,7 @@ padding-top: 30px !important;
     .firstblog img
 {
 width: 70%;
-height: 100%;
+height: 100% !important;
 }
 .secondblog-child
 {
@@ -571,7 +571,7 @@ padding-top: 30px !important;
     .firstblog img
 {
 width: 70%;
-height: 100%;
+height: 100% !important;
 }
 .secondblog-child
 {
